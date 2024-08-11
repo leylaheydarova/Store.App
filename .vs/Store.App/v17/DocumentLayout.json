@@ -3,6 +3,22 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{86D81ADF-37C6-4BA2-B32B-138936B553A9}|Store.App\\Store.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\restapi\\store.app\\store.app\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D81ADF-37C6-4BA2-B32B-138936B553A9}|Store.App\\Store.App.csproj|solutionrelative:store.app\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D81ADF-37C6-4BA2-B32B-138936B553A9}|Store.App\\Store.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\restapi\\store.app\\store.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D81ADF-37C6-4BA2-B32B-138936B553A9}|Store.App\\Store.App.csproj|solutionrelative:store.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D81ADF-37C6-4BA2-B32B-138936B553A9}|Store.App\\Store.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\restapi\\store.app\\store.app\\dtos\\category\\categorygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D81ADF-37C6-4BA2-B32B-138936B553A9}|Store.App\\Store.App.csproj|solutionrelative:store.app\\dtos\\category\\categorygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D81ADF-37C6-4BA2-B32B-138936B553A9}|Store.App\\Store.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\restapi\\store.app\\store.app\\dtos\\category\\categorypostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D81ADF-37C6-4BA2-B32B-138936B553A9}|Store.App\\Store.App.csproj|solutionrelative:store.app\\dtos\\category\\categorypostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{86D81ADF-37C6-4BA2-B32B-138936B553A9}|Store.App\\Store.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\restapi\\store.app\\store.app\\profiles\\categorymap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86D81ADF-37C6-4BA2-B32B-138936B553A9}|Store.App\\Store.App.csproj|solutionrelative:store.app\\profiles\\categorymap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -17,18 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{86D81ADF-37C6-4BA2-B32B-138936B553A9}|Store.App\\Store.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\restapi\\store.app\\store.app\\dtos\\category\\categoryputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86D81ADF-37C6-4BA2-B32B-138936B553A9}|Store.App\\Store.App.csproj|solutionrelative:store.app\\dtos\\category\\categoryputdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86D81ADF-37C6-4BA2-B32B-138936B553A9}|Store.App\\Store.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\restapi\\store.app\\store.app\\dtos\\category\\categorypostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86D81ADF-37C6-4BA2-B32B-138936B553A9}|Store.App\\Store.App.csproj|solutionrelative:store.app\\dtos\\category\\categorypostdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86D81ADF-37C6-4BA2-B32B-138936B553A9}|Store.App\\Store.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\restapi\\store.app\\store.app\\dtos\\category\\categorygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86D81ADF-37C6-4BA2-B32B-138936B553A9}|Store.App\\Store.App.csproj|solutionrelative:store.app\\dtos\\category\\categorygetdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{86D81ADF-37C6-4BA2-B32B-138936B553A9}|Store.App\\Store.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\restapi\\store.app\\store.app\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{86D81ADF-37C6-4BA2-B32B-138936B553A9}|Store.App\\Store.App.csproj|solutionrelative:store.app\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,24 +42,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.App\\Program.cs",
+              "RelativeDocumentMoniker": "Store.App\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.App\\Program.cs",
+              "RelativeToolTip": "Store.App\\Program.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAAAwAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-11T11:01:42.59Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "CategoryMap.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.App\\Profiles\\CategoryMap.cs",
               "RelativeDocumentMoniker": "Store.App\\Profiles\\CategoryMap.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.App\\Profiles\\CategoryMap.cs",
               "RelativeToolTip": "Store.App\\Profiles\\CategoryMap.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA/AAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-09T15:58:32.283Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "CategoryPutDtoValidation.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.App\\Validations\\Category\\CategoryPutDtoValidation.cs",
               "RelativeDocumentMoniker": "Store.App\\Validations\\Category\\CategoryPutDtoValidation.cs",
@@ -63,12 +80,11 @@
               "RelativeToolTip": "Store.App\\Validations\\Category\\CategoryPutDtoValidation.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T15:57:22.604Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T15:57:22.604Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "CategoryPostDtoValidation.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.App\\Validations\\Category\\CategoryPostDtoValidation.cs",
               "RelativeDocumentMoniker": "Store.App\\Validations\\Category\\CategoryPostDtoValidation.cs",
@@ -76,12 +92,11 @@
               "RelativeToolTip": "Store.App\\Validations\\Category\\CategoryPostDtoValidation.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T15:56:09.743Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T15:56:09.743Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "CategoryPutDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.App\\Dtos\\Category\\CategoryPutDto.cs",
               "RelativeDocumentMoniker": "Store.App\\Dtos\\Category\\CategoryPutDto.cs",
@@ -89,12 +104,11 @@
               "RelativeToolTip": "Store.App\\Dtos\\Category\\CategoryPutDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAoAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-09T15:53:23.995Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-09T15:53:23.995Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "CategoryPostDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.App\\Dtos\\Category\\CategoryPostDto.cs",
               "RelativeDocumentMoniker": "Store.App\\Dtos\\Category\\CategoryPostDto.cs",
@@ -107,7 +121,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "CategoryGetDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.App\\Dtos\\Category\\CategoryGetDto.cs",
               "RelativeDocumentMoniker": "Store.App\\Dtos\\Category\\CategoryGetDto.cs",
@@ -120,13 +134,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 0,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.App\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Store.App\\Controllers\\CategoriesController.cs",
               "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.App\\Controllers\\CategoriesController.cs",
               "RelativeToolTip": "Store.App\\Controllers\\CategoriesController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAqwBIAAAAAAAAA",
+              "ViewState": "AQIAAE8AAAAAAAAAAAAAAFcAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-09T15:36:33.502Z",
               "EditorCaption": ""

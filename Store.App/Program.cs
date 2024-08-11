@@ -1,11 +1,16 @@
+using FluentValidation.AspNetCore;
 using Microsoft.EntityFrameworkCore;
 using Store.App.Context;
+using Store.App.Dtos.Category;
+using Store.App.Profiles;
+using Store.App.Validations.Category;
 
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
 
-builder.Services.AddControllers();
+builder.Services.AddControllers().AddFluentValidation(fv=>fv.RegisterValidatorsFromAssemblyContaining<CategoryPostDtoValidation>());
+builder.Services.AddAutoMapper(typeof(CategoryMap));
 builder.Services.AddDbContext<StoreDbContext>(opt =>
 {
     opt.UseSqlServer(builder.Configuration.GetConnectionString("Default"));
