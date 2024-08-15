@@ -21,7 +21,7 @@ namespace Store.App.Controllers
             var query = _context.Categories.Where(x => !x.isDeleted).AsQueryable();
             List<CategoryGetDto> dtos = new List<CategoryGetDto>();
             dtos = await query.Select(x => new CategoryGetDto { Name = x.Name, Id = x.Id.ToString() }).ToListAsync();
-            return StatusCode(200);
+            return StatusCode(200, dtos);
         }
 
         [HttpPost]
