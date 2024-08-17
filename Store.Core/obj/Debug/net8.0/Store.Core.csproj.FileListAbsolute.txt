@@ -10,3 +10,4 @@ C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\RestAPI\Store.App
 C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\RestAPI\Store.App\Store.Core\obj\Debug\net8.0\refint\Store.Core.dll
 C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\RestAPI\Store.App\Store.Core\obj\Debug\net8.0\Store.Core.pdb
 C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\RestAPI\Store.App\Store.Core\obj\Debug\net8.0\ref\Store.Core.dll
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\RestAPI\Store.App\Store.Core\obj\Debug\net8.0\Store.Core.csproj.AssemblyReference.cache

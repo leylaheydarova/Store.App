@@ -3,6 +3,38 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DEF42612-9747-43DB-931F-5BF6E0163FBC}|Store.Core\\Store.Core.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\restapi\\store.app\\store.core\\abstractions\\category\\icategoryreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF42612-9747-43DB-931F-5BF6E0163FBC}|Store.Core\\Store.Core.csproj|solutionrelative:store.core\\abstractions\\category\\icategoryreadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF42612-9747-43DB-931F-5BF6E0163FBC}|Store.Core\\Store.Core.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\restapi\\store.app\\store.core\\abstractions\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF42612-9747-43DB-931F-5BF6E0163FBC}|Store.Core\\Store.Core.csproj|solutionrelative:store.core\\abstractions\\ireadrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF42612-9747-43DB-931F-5BF6E0163FBC}|Store.Core\\Store.Core.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\restapi\\store.app\\store.core\\abstractions\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF42612-9747-43DB-931F-5BF6E0163FBC}|Store.Core\\Store.Core.csproj|solutionrelative:store.core\\abstractions\\iwriterepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF42612-9747-43DB-931F-5BF6E0163FBC}|Store.Core\\Store.Core.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\restapi\\store.app\\store.core\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF42612-9747-43DB-931F-5BF6E0163FBC}|Store.Core\\Store.Core.csproj|solutionrelative:store.core\\abstractions\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF42612-9747-43DB-931F-5BF6E0163FBC}|Store.Core\\Store.Core.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\restapi\\store.app\\store.core\\store.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DEF42612-9747-43DB-931F-5BF6E0163FBC}|Store.Core\\Store.Core.csproj|solutionrelative:store.core\\store.core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D81ADF-37C6-4BA2-B32B-138936B553A9}|Store.App\\Store.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\restapi\\store.app\\store.app\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D81ADF-37C6-4BA2-B32B-138936B553A9}|Store.App\\Store.App.csproj|solutionrelative:store.app\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DEF42612-9747-43DB-931F-5BF6E0163FBC}|Store.Core\\Store.Core.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\restapi\\store.app\\store.core\\models\\basemodels\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF42612-9747-43DB-931F-5BF6E0163FBC}|Store.Core\\Store.Core.csproj|solutionrelative:store.core\\models\\basemodels\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{86D81ADF-37C6-4BA2-B32B-138936B553A9}|Store.App\\Store.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\restapi\\store.app\\store.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{86D81ADF-37C6-4BA2-B32B-138936B553A9}|Store.App\\Store.App.csproj|solutionrelative:store.app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D82C2F93-D914-4160-8F53-B0133CCB6A76}|Store.Service\\Store.Service.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\restapi\\store.app\\store.service\\responses\\apiresponsewithdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D82C2F93-D914-4160-8F53-B0133CCB6A76}|Store.Service\\Store.Service.csproj|solutionrelative:store.service\\responses\\apiresponsewithdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -30,11 +62,115 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IWriteRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Core\\Abstractions\\IWriteRepository.cs",
+              "RelativeDocumentMoniker": "Store.Core\\Abstractions\\IWriteRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Core\\Abstractions\\IWriteRepository.cs",
+              "RelativeToolTip": "Store.Core\\Abstractions\\IWriteRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T19:38:23.677Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Core\\Abstractions\\IReadRepository.cs",
+              "RelativeDocumentMoniker": "Store.Core\\Abstractions\\IReadRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Core\\Abstractions\\IReadRepository.cs",
+              "RelativeToolTip": "Store.Core\\Abstractions\\IReadRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T19:37:41.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Store.Core",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Core\\Store.Core.csproj",
+              "RelativeDocumentMoniker": "Store.Core\\Store.Core.csproj",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Core\\Store.Core.csproj",
+              "RelativeToolTip": "Store.Core\\Store.Core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-17T19:36:29.483Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Core\\Abstractions\\IRepository.cs",
+              "RelativeDocumentMoniker": "Store.Core\\Abstractions\\IRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Core\\Abstractions\\IRepository.cs",
+              "RelativeToolTip": "Store.Core\\Abstractions\\IRepository.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T19:34:54.374Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.App\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "Store.App\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.App\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "Store.App\\Controllers\\CategoriesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFgAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T19:21:00.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Core\\Models\\BaseModels\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "Store.Core\\Models\\BaseModels\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Core\\Models\\BaseModels\\BaseEntity.cs",
+              "RelativeToolTip": "Store.Core\\Models\\BaseModels\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T19:14:12.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ICategoryReadRepository.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Core\\Abstractions\\Category\\ICategoryReadRepository.cs",
+              "RelativeDocumentMoniker": "Store.Core\\Abstractions\\Category\\ICategoryReadRepository.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Core\\Abstractions\\Category\\ICategoryReadRepository.cs",
+              "RelativeToolTip": "Store.Core\\Abstractions\\Category\\ICategoryReadRepository.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T19:13:41.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.App\\Program.cs",
+              "RelativeDocumentMoniker": "Store.App\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.App\\Program.cs",
+              "RelativeToolTip": "Store.App\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-17T19:12:44.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "ApiResponseWithData.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Service\\Responses\\ApiResponseWithData.cs",
               "RelativeDocumentMoniker": "Store.Service\\Responses\\ApiResponseWithData.cs",
@@ -47,7 +183,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 9,
               "Title": "ApiResponse.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Service\\Responses\\ApiResponse.cs",
               "RelativeDocumentMoniker": "Store.Service\\Responses\\ApiResponse.cs",
@@ -60,7 +196,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 10,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Service\\Services\\Abstractions\\ICategoryService.cs",
               "RelativeDocumentMoniker": "Store.Service\\Services\\Abstractions\\ICategoryService.cs",
@@ -73,7 +209,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 11,
               "Title": "CategoryMap.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Service\\Profiles\\CategoryMap.cs",
               "RelativeDocumentMoniker": "Store.Service\\Profiles\\CategoryMap.cs",
@@ -86,7 +222,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 12,
               "Title": "CategoryPutDtoValidation.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Service\\Validations\\Category\\CategoryPutDtoValidation.cs",
               "RelativeDocumentMoniker": "Store.Service\\Validations\\Category\\CategoryPutDtoValidation.cs",
@@ -94,7 +230,8 @@
               "RelativeToolTip": "Store.Service\\Validations\\Category\\CategoryPutDtoValidation.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T11:16:21.359Z"
+              "WhenOpened": "2024-08-16T11:16:21.359Z",
+              "EditorCaption": ""
             }
           ]
         }

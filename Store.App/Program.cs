@@ -1,9 +1,9 @@
 using FluentValidation.AspNetCore;
 using Microsoft.EntityFrameworkCore;
-using Store.App.Context;
-using Store.App.Dtos.Category;
-using Store.App.Profiles;
-using Store.App.Validations.Category;
+using Store.Data.Context;
+using Store.Service.Dtos.Category;
+using Store.Service.Profiles;
+using Store.Service.Validations.Category;
 
 var builder = WebApplication.CreateBuilder(args);
 

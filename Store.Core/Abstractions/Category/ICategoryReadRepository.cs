@@ -1,12 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Store.Core.Models;
+using System;
+
 
 namespace Store.Core.Abstractions.Category
 {
-    public interface ICategoryReadRepository
-    {
+    public interface ICategoryReadRepository 
+    { 
     }
 }

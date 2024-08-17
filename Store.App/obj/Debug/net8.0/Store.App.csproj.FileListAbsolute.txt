@@ -140,3 +140,9 @@ C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\RestAPI\Store.App
 C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\RestAPI\Store.App\Store.App\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\RestAPI\Store.App\Store.App\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\RestAPI\Store.App\Store.App\obj\Debug\net8.0\Store.App.sourcelink.json
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\RestAPI\Store.App\Store.App\bin\Debug\net8.0\Store.Core.dll
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\RestAPI\Store.App\Store.App\bin\Debug\net8.0\Store.Data.dll
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\RestAPI\Store.App\Store.App\bin\Debug\net8.0\Store.Service.dll
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\RestAPI\Store.App\Store.App\bin\Debug\net8.0\Store.Service.pdb
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\RestAPI\Store.App\Store.App\bin\Debug\net8.0\Store.Core.pdb
+C:\Users\User\Desktop\Learning Programming\Jed Academy\Backend\RestAPI\Store.App\Store.App\bin\Debug\net8.0\Store.Data.pdb
