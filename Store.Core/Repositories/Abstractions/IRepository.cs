@@ -6,10 +6,10 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Store.Core.Abstractions
+namespace Store.Core.Repositories.Abstractions
 {
     public interface IRepository<T> where T : BaseEntity
     {
-       public DbSet<T> Table {  get; set; }
+        public DbSet<T> Table { get; set; }
     }
 }
