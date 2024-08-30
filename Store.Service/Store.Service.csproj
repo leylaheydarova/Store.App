@@ -16,8 +16,4 @@
     <ProjectReference Include="..\Store.Data\Store.Data.csproj" />
   </ItemGroup>
 
-  <ItemGroup>
-    <Folder Include="Services\Concretes\" />
-  </ItemGroup>
-
 </Project>

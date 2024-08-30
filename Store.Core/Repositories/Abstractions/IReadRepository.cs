@@ -10,9 +10,9 @@ namespace Store.Core.Repositories.Abstractions
 {
     public interface IReadRepository<T> : IRepository<T> where T : BaseEntity
     {
-        IQueryable<T> GetAllAsync();
-        IQueryable<T> GetAllWhereAsync(Expression<Func<T, bool>> expression, bool isTracking = true, params string[] include);
-        Task<T?> GetById(string id);
-        Task<T?> GetWhere(Expression<Func<T, bool>> expression, bool isTracking = true, params string[] include);
+        IQueryable<T> GetAllAsync(bool isTracking = true);
+        IQueryable<T> GetAllWhereAsync(Expression<Func<T, bool>> expression, bool isTracking = true, params string[] includes);
+        Task<T?> GetById(string id, bool isTracking = true, params string[] includes);
+        Task<T?> GetWhere(Expression<Func<T, bool>> expression, bool isTracking = true, params string[] includes);
     }
 }

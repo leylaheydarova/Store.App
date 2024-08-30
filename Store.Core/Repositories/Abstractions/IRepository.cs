@@ -10,6 +10,6 @@ namespace Store.Core.Repositories.Abstractions
 {
     public interface IRepository<T> where T : BaseEntity
     {
-        public DbSet<T> Table { get; set; }
+        public DbSet<T> Table { get; }
     }
 }

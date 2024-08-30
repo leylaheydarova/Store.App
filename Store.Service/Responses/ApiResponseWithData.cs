@@ -6,7 +6,8 @@ using System.Threading.Tasks;
 
 namespace Store.Service.Responses
 {
-    internal class ApiResponseWithData
+    public class ApiResponseWithData:ApiResponse
     {
+        public object Datas { get; set; }
     }
 }

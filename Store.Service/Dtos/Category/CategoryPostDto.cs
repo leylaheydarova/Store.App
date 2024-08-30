@@ -1,6 +1,6 @@
 ﻿namespace Store.Service.Dtos.Category
 {
-    public class CategoryPostDto
+    public record CategoryPostDto
     {
         public string Name { get; set; }
     }
