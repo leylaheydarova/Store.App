@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{DEF42612-9747-43DB-931F-5BF6E0163FBC}|Store.Core\\Store.Core.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\restapi\\store.app\\store.core\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DEF42612-9747-43DB-931F-5BF6E0163FBC}|Store.Core\\Store.Core.csproj|solutionrelative:store.core\\models\\blog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{86D81ADF-37C6-4BA2-B32B-138936B553A9}|Store.App\\Store.App.csproj|c:\\users\\user\\desktop\\learning programming\\jed academy\\backend\\restapi\\store.app\\store.app\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{86D81ADF-37C6-4BA2-B32B-138936B553A9}|Store.App\\Store.App.csproj|solutionrelative:store.app\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -103,6 +107,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Blog.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Core\\Models\\Blog.cs",
+              "RelativeDocumentMoniker": "Store.Core\\Models\\Blog.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Core\\Models\\Blog.cs",
+              "RelativeToolTip": "Store.Core\\Models\\Blog.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:33:27.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CategoriesController.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.App\\Controllers\\CategoriesController.cs",
               "RelativeDocumentMoniker": "Store.App\\Controllers\\CategoriesController.cs",
@@ -115,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "ApiResponse.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Service\\Responses\\ApiResponse.cs",
               "RelativeDocumentMoniker": "Store.Service\\Responses\\ApiResponse.cs",
@@ -123,12 +140,11 @@
               "RelativeToolTip": "Store.Service\\Responses\\ApiResponse.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T22:14:14.516Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T22:14:14.516Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "CategoryService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Service\\Services\\Concretes\\CategoryService.cs",
               "RelativeDocumentMoniker": "Store.Service\\Services\\Concretes\\CategoryService.cs",
@@ -136,12 +152,11 @@
               "RelativeToolTip": "Store.Service\\Services\\Concretes\\CategoryService.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAAEMAAABNAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T21:58:18.924Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T21:58:18.924Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "CategoryPutDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Service\\Dtos\\Category\\CategoryPutDto.cs",
               "RelativeDocumentMoniker": "Store.Service\\Dtos\\Category\\CategoryPutDto.cs",
@@ -149,12 +164,11 @@
               "RelativeToolTip": "Store.Service\\Dtos\\Category\\CategoryPutDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T21:50:22.513Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T21:50:22.513Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "CategoryPostDto.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Service\\Dtos\\Category\\CategoryPostDto.cs",
               "RelativeDocumentMoniker": "Store.Service\\Dtos\\Category\\CategoryPostDto.cs",
@@ -162,12 +176,11 @@
               "RelativeToolTip": "Store.Service\\Dtos\\Category\\CategoryPostDto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T21:50:14.002Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T21:50:14.002Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "CategoryWriteRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Data\\Repositories\\Concretes\\Categories\\CategoryWriteRepository.cs",
               "RelativeDocumentMoniker": "Store.Data\\Repositories\\Concretes\\Categories\\CategoryWriteRepository.cs",
@@ -175,12 +188,11 @@
               "RelativeToolTip": "Store.Data\\Repositories\\Concretes\\Categories\\CategoryWriteRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABeAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T21:47:21.107Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T21:47:21.107Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "CategoryReadRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Data\\Repositories\\Concretes\\Categories\\CategoryReadRepository.cs",
               "RelativeDocumentMoniker": "Store.Data\\Repositories\\Concretes\\Categories\\CategoryReadRepository.cs",
@@ -188,25 +200,23 @@
               "RelativeToolTip": "Store.Data\\Repositories\\Concretes\\Categories\\CategoryReadRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T21:45:56.182Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T21:45:56.182Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Store.Data",
+              "DocumentIndex": 11,
+              "Title": "Store.Data.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Data\\Store.Data.csproj",
               "RelativeDocumentMoniker": "Store.Data\\Store.Data.csproj",
               "ToolTip": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Data\\Store.Data.csproj",
               "RelativeToolTip": "Store.Data\\Store.Data.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-08-30T21:22:20.121Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T21:22:20.121Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "ReadRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Data\\Repositories\\Concretes\\ReadRepository.cs",
               "RelativeDocumentMoniker": "Store.Data\\Repositories\\Concretes\\ReadRepository.cs",
@@ -214,12 +224,11 @@
               "RelativeToolTip": "Store.Data\\Repositories\\Concretes\\ReadRepository.cs",
               "ViewState": "AQIAAEMAAAAAAAAAAAAUwFMAAAAaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T21:22:56.434Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T21:22:56.434Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "WriteRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Data\\Repositories\\Concretes\\WriteRepository.cs",
               "RelativeDocumentMoniker": "Store.Data\\Repositories\\Concretes\\WriteRepository.cs",
@@ -227,12 +236,11 @@
               "RelativeToolTip": "Store.Data\\Repositories\\Concretes\\WriteRepository.cs",
               "ViewState": "AQIAAB0AAAAAAAAAAADgvycAAAA1AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T21:15:44.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T21:15:44.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "ICategoryWriteRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Core\\Repositories\\Abstractions\\Categories\\ICategoryWriteRepository.cs",
               "RelativeDocumentMoniker": "Store.Core\\Repositories\\Abstractions\\Categories\\ICategoryWriteRepository.cs",
@@ -240,12 +248,11 @@
               "RelativeToolTip": "Store.Core\\Repositories\\Abstractions\\Categories\\ICategoryWriteRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T21:14:32.267Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T21:14:32.267Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "ICategoryReadRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Core\\Repositories\\Abstractions\\Categories\\ICategoryReadRepository.cs",
               "RelativeDocumentMoniker": "Store.Core\\Repositories\\Abstractions\\Categories\\ICategoryReadRepository.cs",
@@ -253,12 +260,11 @@
               "RelativeToolTip": "Store.Core\\Repositories\\Abstractions\\Categories\\ICategoryReadRepository.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-30T21:13:58.678Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-30T21:13:58.678Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "IWriteRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Core\\Repositories\\Abstractions\\IWriteRepository.cs",
               "RelativeDocumentMoniker": "Store.Core\\Repositories\\Abstractions\\IWriteRepository.cs",
@@ -266,12 +272,11 @@
               "RelativeToolTip": "Store.Core\\Repositories\\Abstractions\\IWriteRepository.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAAAcwBMAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T19:38:23.677Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T19:38:23.677Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "IReadRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Core\\Repositories\\Abstractions\\IReadRepository.cs",
               "RelativeDocumentMoniker": "Store.Core\\Repositories\\Abstractions\\IReadRepository.cs",
@@ -279,12 +284,11 @@
               "RelativeToolTip": "Store.Core\\Repositories\\Abstractions\\IReadRepository.cs",
               "ViewState": "AQIAAAgAAAAAAAAAAADgvw4AAABUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T19:37:41.444Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T19:37:41.444Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Store.Core.csproj",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Core\\Store.Core.csproj",
               "RelativeDocumentMoniker": "Store.Core\\Store.Core.csproj",
@@ -296,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Core\\Repositories\\Abstractions\\IRepository.cs",
               "RelativeDocumentMoniker": "Store.Core\\Repositories\\Abstractions\\IRepository.cs",
@@ -304,12 +308,11 @@
               "RelativeToolTip": "Store.Core\\Repositories\\Abstractions\\IRepository.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAUwAwAAAAkAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T19:34:54.374Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T19:34:54.374Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Core\\Models\\BaseModels\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Store.Core\\Models\\BaseModels\\BaseEntity.cs",
@@ -321,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.App\\Program.cs",
               "RelativeDocumentMoniker": "Store.App\\Program.cs",
@@ -329,12 +332,11 @@
               "RelativeToolTip": "Store.App\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAASAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-17T19:12:44.707Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-17T19:12:44.707Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "ApiResponseWithData.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Service\\Responses\\ApiResponseWithData.cs",
               "RelativeDocumentMoniker": "Store.Service\\Responses\\ApiResponseWithData.cs",
@@ -342,12 +344,11 @@
               "RelativeToolTip": "Store.Service\\Responses\\ApiResponseWithData.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T19:51:37.477Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T19:51:37.477Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ICategoryService.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Service\\Services\\Abstractions\\ICategoryService.cs",
               "RelativeDocumentMoniker": "Store.Service\\Services\\Abstractions\\ICategoryService.cs",
@@ -355,12 +356,11 @@
               "RelativeToolTip": "Store.Service\\Services\\Abstractions\\ICategoryService.cs",
               "ViewState": "AQIAAAkAAAAAAAAAAAAAAAsAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T19:50:52.413Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T19:50:52.413Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "CategoryMap.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Service\\Profiles\\CategoryMap.cs",
               "RelativeDocumentMoniker": "Store.Service\\Profiles\\CategoryMap.cs",
@@ -368,12 +368,11 @@
               "RelativeToolTip": "Store.Service\\Profiles\\CategoryMap.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T11:17:21.868Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T11:17:21.868Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "CategoryPutDtoValidation.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Learning Programming\\Jed Academy\\Backend\\RestAPI\\Store.App\\Store.Service\\Validations\\Category\\CategoryPutDtoValidation.cs",
               "RelativeDocumentMoniker": "Store.Service\\Validations\\Category\\CategoryPutDtoValidation.cs",
@@ -381,8 +380,7 @@
               "RelativeToolTip": "Store.Service\\Validations\\Category\\CategoryPutDtoValidation.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-16T11:16:21.359Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-16T11:16:21.359Z"
             }
           ]
         }
